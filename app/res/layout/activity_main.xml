@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageHome"
+        android:layout_width="250dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="80dp"
+        android:contentDescription="@string/image_main_desc"
+        android:src="@drawable/main_image"
+        tools:srcCompat="@drawable/main_image" />
+
+
+    <Button
+        android:id="@+id/btn_upload"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="55dp"
+        android:layout_marginRight="55dp"
+        android:text="@string/upload_button"
+        android:textSize="40sp"
+        />
+
+    <Button
+        android:id="@+id/btn_results"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="55dp"
+        android:layout_marginRight="55dp"
+        android:text="@string/statistics_button"
+        android:textSize="40sp"
+        />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
