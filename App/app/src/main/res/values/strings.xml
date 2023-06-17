@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Go Run</string>
+    <string name="image_loading_desc">HeartAppIcon</string>
+    <string name="image_main_desc">LadiesRunning</string>
+    <string name="image_upload_desc">UploadFile</string>
+    <string name="image_upload_completed_desc">BlueTick</string>
+    <string name="image_route_statistics_desc">Winner</string>
+    <string name="image_user_statistics_desc">PeopleRunning</string>
+    <string name="upload_button">Upload</string>
+    <string name="statistics_button">Statistics</string>
+    <string name="home_button">Return home</string>
+    <string name="new_upload_button">Upload new file</string>
+    <string name="route_statistics_button">View route\'s statistics</string>
+    <string name="uploaded_text">The file was uploaded successfully!</string>
+    <string name="stats_route_title_text">Your results on this route: </string>
+    <string name="stats_user_title_text">Your results on all routes: </string>
+    <string name="stats_route_results_text"> </string>
+    <string name="stats_user_results_text"> </string>
+    <string name="stats_user_vs_users_title_text">Your results in comparison to other users:</string>
+    <string name="upload_description_text">Choose the file you want to upload:</string>
+    <string name="upload_screen_upload">Upload</string>
+    <string name="Upload_screen_go_home">Go home</string>
+
+</resources>
